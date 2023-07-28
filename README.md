@@ -9,4 +9,16 @@
 </p>
 
 - [Concurrency in C#](https://github.com/BehnamSeydAbadi/concurrency-in-c-sharp)
-- [SQL in Depth]
+- SQL in Depth
+- Event sourcing
+- DDD
+- BDD
+- TDD
+- CQRS
+- Docker
+- Kubernetis
+- Rabbit MQ
+- Redis
+- MongoDb
+- gRPC
+- Microservice
