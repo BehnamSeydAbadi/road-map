@@ -9,3 +9,4 @@
 </p>
 
 - [Concurrency in C#](https://github.com/BehnamSeydAbadi/concurrency-in-c-sharp)
+- [SQL in Depth]
