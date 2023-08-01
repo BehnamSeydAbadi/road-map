@@ -9,6 +9,7 @@
 </p>
 
 - [Concurrency in C#](https://github.com/BehnamSeydAbadi/concurrency-in-c-sharp)
+- Git
 - SQL in Depth
 - Event sourcing
 - DDD
